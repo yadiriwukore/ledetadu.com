@@ -1,0 +1,10 @@
+.row-gap {
+    margin-bottom: 100px;
+    padding: 0px 60px/* Adjust the value to control the size of the gap */
+}
+.logo-ledetadu {
+    max-width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
