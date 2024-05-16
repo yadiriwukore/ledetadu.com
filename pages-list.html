@@ -1,0 +1,19 @@
+---
+layout: shell
+title: Post List
+---
+<div class="container">
+
+  
+  <h2>
+    Page List
+  </h2>
+  
+  {% for page in site.pages %}
+
+  <a href="{{page.url}}">
+
+    <h4>{{ page.title }}</h4>
+  </a>
+    {% endfor %}
+</div>

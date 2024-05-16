@@ -11,3 +11,6 @@ phone_number: 082147219797
 
 # Build settings
 markdown: kramdown
+collections:
+  pages: 
+    output: true 
