@@ -19,7 +19,7 @@ Pantai Kelapa Lima merupaka salah satu destinasi wajib yang harus banget didatan
 
 ### 2. Kuliner Seafood kampung Solor 
 
-![pantai oetune]({{ site.baseurl }}/img/pages/pameran-merekam-kota.jpg)\
+![pantai oetune]({{ site.baseurl }}/img/pages/seafood-kampung-solor.jpg)\
 Sumber: Jalan-jalan makan-makan
 Tempat makan I ni cukup terkenal dikota kuopang, kuliner seafood ini di Jl.Kosasi Solor, Kecamatan Kota Lama Kupang. Kuliner sefood ini menyediakan berbagai jenis makanan laut mulai dari ikan, kerag, lobster yang dapat dijadikan dengan berbagai rasa tergantung permintaan. Seporsi makanan laut yang disajikan dibandrol dengan harga mulai dari 25.000 hingga ratusan ribu rupiah. Harga yang terjangkau, lokasi yang strategis, dan sefood segar yang bisa didapatkan saat berkunjubf kesana. Kuliner seafood kampong solor ini beroprasi di sore hingga malam hari dan tidak pernah sepi pembeli loh. Pastikan kamu mampir kesana. 
 
