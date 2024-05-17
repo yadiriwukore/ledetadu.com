@@ -14,3 +14,11 @@ markdown: kramdown
 collections:
   pages: 
     output: true 
+
+url: "https://hotelledetadukupang.com" # the base hostname & protocol for your site
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+logo: img/logo.png
