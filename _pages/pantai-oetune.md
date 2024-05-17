@@ -31,8 +31,7 @@ Letak hotel ini sangat strategis. Jaraknya sekitar lima menit dari Bandara El Ta
 Selain wisatawan, para penumpang pesawat yang sedang transit pun dapat dengan cepat mencari hotel terdekat dengan bandara yang akan memudahkan dalam proses perjalanan.
 Perlu diketahui, fasilitas yang ditawarkan oleh Hotel Ledetadu antara lain free WIFI dan kopi. Untuk tarif kamar, dapat merogoh kocek sekitar Rp 75.000- Rp. 195.000 saja per malamnya. Dengan rincian untuk kamar yang menggunakan kipas angin dihatgai dengan Rp 75.000 per malam. Kamar dengan AC Rp 125.000 per malam, serta kamar dengan kualitas deluxe Rp 195.000 per malam. 
 
-[gambar hotel Ledetadu]
-Sumber: pegi-pegi.com
+
 Demikian artikel seputar wisata alam Pantai Oetune serta deskripsinya untuk menambah imajinasi pembaca agar mampu terbayang tempat ini. Semoga dengan deskripsi yang diberikan, pembaca semakin tergugah untuk mengunjungi Pantai Oetune sebagai opsi untuk berwisata bersama keluarga dan orang-orang. Harapan penulis, artikel ini dapat menjadi referensi pembaca bersama keluarga untuk tempat-tempat wisata alam di NTT.
 
 
